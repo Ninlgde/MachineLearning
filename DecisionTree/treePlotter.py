@@ -1,9 +1,9 @@
 # -*- coding=utf-8 -*-
-'''
+"""
 treePlotter.py
 Date: 16/2/27
 Company: Copyright (c) 2016 Ninlgde co.,Ltd. All right reserved.
-'''
+"""
 
 import matplotlib.pyplot as plt
 
